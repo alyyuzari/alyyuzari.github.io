@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-subtitle: All about me and my life #optional sub title to the post
+subtitle: my life #optional sub title to the post
 permalink: /about/
-header_feature_image:  /images/log.jpg #replace this for yours
+header_feature_image:  /images/malaysia.jpg #replace this for yours
 tags:
 published: true
 description:
 ---
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+There are many things I have been called in my life - cat lady, nerd, or whale after eating five meals a day but I most respond to the name Alyssa, or Aly when you are lazy.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I come from _Malaysia_ to study publishing in a wonderful institution in Oxford, and also to lie in on sundays when motivation has officially left me. 
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+[![](/images/waves.jpg)](/images/waves.jpg)
